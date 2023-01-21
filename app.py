@@ -1,6 +1,6 @@
 # Import necessary libraries
-from sklearn.preprocessing import LabelEncoder, OneHotEncoder
-from sklearn.preprocessing import MinMaxScaler
+# from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+# from sklearn.preprocessing import MinMaxScaler
 import streamlit as st
 import pickle
 import pandas as pd
